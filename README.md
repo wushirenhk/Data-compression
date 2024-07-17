@@ -7,7 +7,7 @@ An internship program for applying for a PhD in Computer Science at HUST
 
 #### 一、主要工作
 
-本周的主要工作可以分为阅读文献和整体项目思路规划，本周阅读了7篇课题相关的文献，可以主要分为两个方向，一个是以CompressDB、TADOC为首的利用层次结构、DAG等规则方式实现对数据的压缩，一个方向是以Lepton为首的算术编码替换了JPEG文件中的Huffman编码、利用Huffman交接词
+本周的主要工作可以分为阅读文献和整体项目思路规划，本周阅读了7篇课题相关的文献，可以主要分为两个方向，一个是以CompressDB、TADOC为首的利用层次结构、DAG等规则方式实现对数据的压缩，一个方向是以Lepton为首的算术编码替换了JPEG文件中的Huffman编码、利用Huffman交接词实现对图片数据的压缩。自己也学习了现在主流的压缩方法如ZSTD、LZ4等，对项目的实现方法有了初步构想。学习内容在[wushirenhk/Data-compression: An internship program for applying for a PhD in Computer Science at HUST (github.com)](https://github.com/wushirenhk/Data-compression)
 
 
 
@@ -275,4 +275,4 @@ Sequitur算法：这些研究基于Sequitur算法，它是一种递归算法，�
 
 #### **五、下周计划**
 
-​	初步实现项目的代码，尝试跑通代码，以及运行成功基准平台的测试样例。
+​	初步实现项目的代码，尝试跑通写完的模块的代码，以及运行成功基准平台的测试样例。
